@@ -1,7 +1,18 @@
 # EMiSI
+### :book: Тема
+Основною темою курсу <a href="https://gitlab.com/targetflow/emise">Empirical methods in Software Engineering</a> є вивчення аналізу та методами обробки експериментальних даних. Курс охоплює такі тами, як вступ до ЕМПІ, основні поняття в статистиці, основи візуалізації проблем через дані, кореляція даних, порівняння двох середніх, t-критерій Cтьюдента, регресія та ін.
 
-# :paperclip: Посилання
-<a href="https://colab.research.google.com/drive/1O2N2fjlD_YiQX9J_kI0LA3yaqL1XgGev">Частина 1 (Вступ до ЕМПІ)</a><br>
-<a href="https://colab.research.google.com/drive/1M4lU4g2cHIdc8LsPNvCUbgRjFA4WNLXG">Частина 2 (Основи візуалізації проблем через дані)</a><br>
-<a href="https://colab.research.google.com/drive/1bCVN2avnA67MiarxrBNrVa-ZYgag2diF">Частина 3 (Порівняння середніх)</a><br>
-<a href="https://colab.research.google.com/drive/109UJs2vdNNaTFpyCjykhfdVSFg7zahLM">Частина 4 (Кореляція та регресія)</a>
+### :chart_with_upwards_trend: Переваги
+Весь курс поділений на лекції, кожна з яких являє собою <a href="https://en.wikipedia.org/wiki/Project_Jupyter#Jupyter_Notebook">Jupyter Notebook</a>. Добре пояснюються теоритична частина кожної теми, наводяться приклади, посилання на джерела інформації. Дуже зручно спочатко опрацювати теоритичний матеріал і відразу перейти до його практичного застосування, з можливістю змінювати код в реальному часі і спостерігати як це впливає на результат.
+
+### :raised_hands: Враження
+Загалом враження від пройденого курсу тільки позитивні. Дуже сподобалось те, що показується реальні приклади застосування стастистичного аналізу та обробки даних, завдяки чому, курс не перетворюється на звичайну нудну статистику та математику. Особливо було цікаво виконувати завдання з візуалізації обробки даних, маючи в своєму арсеналі велику кількість різних графіків, які можна реалізувти на Python'і, та ще більше варіантів їх кастомізації.
+
+### :paperclip: Посилання
+Мої виконані завдання: 
+ - <a href="https://colab.research.google.com/drive/1O2N2fjlD_YiQX9J_kI0LA3yaqL1XgGev">Частина 1 (Вступ до ЕМПІ)</a><br>
+ - <a href="https://colab.research.google.com/drive/1M4lU4g2cHIdc8LsPNvCUbgRjFA4WNLXG">Частина 2 (Основи візуалізації проблем через дані)</a><br>
+ - <a href="https://colab.research.google.com/drive/1bCVN2avnA67MiarxrBNrVa-ZYgag2diF">Частина 3 (Порівняння середніх)</a><br>
+ - <a href="https://colab.research.google.com/drive/109UJs2vdNNaTFpyCjykhfdVSFg7zahLM">Частина 4 (Кореляція та регресія)</a>
+
+
